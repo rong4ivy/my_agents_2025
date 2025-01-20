@@ -1,8 +1,8 @@
 # 🤖 Agent Experiments 2025
-** Agents use an LLM to determine which actions to take and in what order. An action can either be using a tool and observing its output, or returning to the user.**
+**Agents use an LLM to determine which actions to take and in what order. An action can either be using a tool and observing its output, or returning to the user.**
 
 A hands-on exploration of AI Agent frameworks, documenting practical implementations and insights.
-** Agents use an LLM to determine which actions to take and in what order. An action can either be using a tool and observing its output, or returning to the user.**
+
 
 ## 🎯 Overview
 
